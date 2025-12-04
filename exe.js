@@ -64,4 +64,4 @@ function swapCase(str) {
     ).join('');
 }
 
-console.log(swapCase("bcd"));
+// console.log(swapCase("bcd"));
